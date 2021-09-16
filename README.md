@@ -1,6 +1,8 @@
-![alt text](IMG_03132.png) 
+![My Avatar](IMG_03132.png)
 ### Hello and welcome to my GitHub 😄
 ___
+
+My name is Giuseppe, I comme from Belgium and I am currently in training at BeCode Charleroi.
 
 
 
