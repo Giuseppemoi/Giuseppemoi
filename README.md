@@ -1,6 +1,9 @@
-![alt text](B9053AB0-39CB-43B6-A246-331C42404668_1_201_a.jpeg) 
+![alt text](IMG_03132.png) 
 ### Hello and welcome to my GitHub 😄
 ___
+
+
+
 
 I hope you will enjoy the visit and feel free to contacte me if you have any questions.
 
