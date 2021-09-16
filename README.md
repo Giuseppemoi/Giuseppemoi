@@ -2,7 +2,7 @@
 ### Hello and welcome to my GitHub 😄
 ___
 
-My name is Giuseppe, I comme from Belgium and I am currently in training at BeCode Charleroi.
+My name is Giuseppe, I comme from Belgium and I am currently in training at BeCode Charleroi as a Junior Web Developer.
 
 
 
