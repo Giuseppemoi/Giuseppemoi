@@ -1,4 +1,13 @@
-### Hi there 👋
+
+
+### Hello and welcome to my GitHub 😄
+___
+
+I hope you will enjoy the visit and feel free to contacte me if you have any questions.
+
+Have a nice day.
+
+Giuseppe Moi
 
 <!--
 **Giuseppemoi/Giuseppemoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
