@@ -1,4 +1,4 @@
-![My Avatar](IMG_03132.png)
+![My Avatar](B9053AB0-39CB-43B6-A246-331C42404668_1_201_a.png)
 ### Hello and welcome to my GitHub 😄
 ___
 
